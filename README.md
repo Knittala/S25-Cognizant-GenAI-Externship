@@ -5,3 +5,4 @@ This repository contains my submissions for assignments and projects completed i
 Contents:
 
 - Cognizant Generative AI Externship Assignment 1
+- Cognizant Generative AI Externship Project - Eligible Elector
