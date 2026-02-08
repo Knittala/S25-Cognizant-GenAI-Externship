@@ -18,5 +18,4 @@ Contents:
 - Cognizant Generative AI Externship Project - Implement Your Own Data Structures
 - Cognizant Generative AI Externship Project - Number Guessing Game
 - Cognizant Generative AI Externship Project - Password Strength Checker
-- 
   
